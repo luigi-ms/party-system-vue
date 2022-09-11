@@ -2,6 +2,7 @@
   "name": "party-system",
   "version": "0.1.0",
   "private": true,
+  "license": "GNU AGPLv3",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -39,5 +40,13 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ]
+  ],
+  "author": {
+    "name": "Luigi Moraes",
+    "email": "luigimoraessantos@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luigi-ms-git/party-system-vue"
+  }
 }
